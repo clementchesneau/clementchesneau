@@ -35,15 +35,10 @@
     React Native
   </a>
   <a href="https://www.typescriptlang.org/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/typescript.svg" alt="TypeScript" height="30"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/typescript.svg" alt="TypeScript" height="30" align="center" />
     TypeScript
   </a>
 </div>
-
-<a href="https://example.com" style="display:inline-flex; align-items:center; gap:6px;">
-  <img src="https://yourdomain.com/icon.svg" alt="icon" width="18" />
-  <span>My link</span>
-</a>
 
 ## 🚀 Projects I'm working on
 - [GedZilla - Saas and website](https://gedzilla.com)
