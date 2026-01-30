@@ -5,7 +5,7 @@
 
 ### 💻 Tech Stack
 
-<div style="display: flex; align-items: center;">
+<div style="vertical-align: baseline;">
   <a href="https://laravel.com">
     <img src="https://cdn.simpleicons.org/laravel/FF2D20" alt="Laravel" height="30"/>
     Laravel
