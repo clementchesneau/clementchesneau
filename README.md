@@ -40,6 +40,11 @@
   </a>
 </div>
 
+<a href="https://example.com" style="display:inline-flex; align-items:center; gap:6px;">
+  <img src="https://yourdomain.com/icon.svg" alt="icon" width="18" />
+  <span>My link</span>
+</a>
+
 ## 🚀 Projects I'm working on
 - [GedZilla - Saas and website](https://gedzilla.com)
 - [Numerize - Simulator](https://numerize.com/simulateur-de-devis)
