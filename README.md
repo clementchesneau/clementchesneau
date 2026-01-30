@@ -5,13 +5,13 @@
 
 ## 💻 Tech Stack
 
-[![Laravel](https://cdn.simpleicons.org/laravel/FF2D20)](https://laravel.com)  
-[![React](https://cdn.simpleicons.org/react/61DAFB)](https://reactjs.org)  
-[![AWS](https://cdn.simpleicons.org/amazonaws/FF9900)](https://aws.amazon.com)  
-[![Node.js](https://cdn.simpleicons.org/nodedotjs/339933)](https://nodejs.org)  
-[![NestJS](https://cdn.simpleicons.org/nestjs/E0234E)](https://nestjs.com)  
-[![Python](https://cdn.simpleicons.org/python/3776AB)](https://www.python.org)  
-[![React Native](https://cdn.simpleicons.org/react/61DAFB)](https://reactnative.dev)
+<a href="https://laravel.com"><img src="https://cdn.simpleicons.org/laravel/FF2D20" alt="Laravel" height="30"/></a>
+<a href="https://reactjs.org"><img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" height="30"/></a>
+<a href="https://aws.amazon.com"><img src="https://cdn.simpleicons.org/amazonaws/FF9900" alt="AWS" height="30"/></a>
+<a href="https://nodejs.org"><img src="https://cdn.simpleicons.org/nodedotjs/339933" alt="Node.js" height="30"/></a>
+<a href="https://nestjs.com"><img src="https://cdn.simpleicons.org/nestjs/E0234E" alt="NestJS" height="30"/></a>
+<a href="https://www.python.org"><img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" height="30"/></a>
+<a href="https://reactnative.dev"><img src="https://cdn.simpleicons.org/react/61DAFB" alt="React Native" height="30"/></a>
 
 ## 🚀 Projects I'm working on
 - [GedZilla - Saas and website](https://gedzilla.com)
