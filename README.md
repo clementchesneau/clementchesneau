@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Clément 👋
 
-<!--
-**clementchesneau/clementchesneau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Engineering Manager and Full-stack Lead Developer.
 
-Here are some ideas to get you started:
+## 🚀 Projects I've worked on
+- [GedZilla - Saas and website](https://gedzilla.com)
+- [Numerize - Simulator](https://numerize.com/simulateur-de-devis)
+- [Numerize - Other simulator](https://numerize.com/simulateur-de-devis-petit-budget)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+Laravel, React, AWS, Node.js, Nest.js, Python, React Native, Typescript
+
+![Clément's GitHub stats](https://github-readme-stats.vercel.app/api?username=clement123&show_icons=true&theme=radical)
