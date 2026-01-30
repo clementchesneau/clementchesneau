@@ -5,7 +5,7 @@
 
 ### 💻 Tech Stack
 
-<div style="margin-bottom: 20px;">
+<div style="margin-bottom: 60px;">
   <a href="https://laravel.com">
     <img src="https://cdn.simpleicons.org/laravel/FF2D20" alt="Laravel" height="30" align="center" />
     Laravel
