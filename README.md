@@ -6,49 +6,49 @@
 ### 💻 Tech Stack
 
 <div style="margin-bottom: 60px;">
-  <a href="https://laravel.com">
+  <span href="https://laravel.com">
     <img src="https://cdn.simpleicons.org/laravel/FF2D20" alt="Laravel" height="30" align="center" />
     &nbsp;Laravel
-  </a>
+  </span>
   &nbsp;
-  <a href="https://reactjs.org">
+  <span href="https://reactjs.org">
     <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" height="30" align="center" />
     &nbsp;React
-  </a>
+  </span>
   &nbsp;
-  <a href="https://aws.amazon.com">
+  <span href="https://aws.amazon.com">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/amazonaws.svg" alt="AWS" height="30" align="center" />
     &nbsp;AWS
-  </a>
+  </span>
   &nbsp;
-  <a href="https://nodejs.org">
+  <span href="https://nodejs.org">
     <img src="https://cdn.simpleicons.org/nodedotjs/339933" alt="Node.js" height="30" align="center" />
     &nbsp;Node.js
-  </a>
+  </span>
 </div>
 
 <div hspace="10"></div>
 
 <div>
-  <a href="https://nestjs.com">
+  <span href="https://nestjs.com">
     <img src="https://cdn.simpleicons.org/nestjs/E0234E" alt="NestJS" height="30" align="center" />
     &nbsp;NestJS
-  </a>
+  </span>
   &nbsp;
-  <a href="https://www.python.org">
+  <span href="https://www.python.org">
     <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" height="30" align="center" />
     &nbsp;Python
-  </a>
+  </span>
   &nbsp;
-  <a href="https://reactnative.dev">
+  <span href="https://reactnative.dev">
     <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React Native" height="30" align="center" />
     &nbsp;React Native
-  </a>
+  </span>
   &nbsp;
-  <a href="https://www.typescriptlang.org/">
+  <span href="https://www.typescriptlang.org/">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/typescript.svg" alt="TypeScript" height="30" align="center" />
     &nbsp;TypeScript
-  </a>
+  </span>
 </div>
 
 ## 🚀 Projects I'm working on
