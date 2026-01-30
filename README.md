@@ -16,14 +16,14 @@
     &nbsp;React
   </span>
   &nbsp;
+  <span href="https://www.typescriptlang.org/">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/typescript.svg" alt="TypeScript" height="30" align="center" />
+    &nbsp;TypeScript
+  </span>
+  &nbsp;
   <span href="https://aws.amazon.com">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/amazonaws.svg" alt="AWS" height="30" align="center" />
     &nbsp;AWS
-  </span>
-  &nbsp;
-  <span href="https://nodejs.org">
-    <img src="https://cdn.simpleicons.org/nodedotjs/339933" alt="Node.js" height="30" align="center" />
-    &nbsp;Node.js
   </span>
 </div>
 
@@ -45,9 +45,9 @@
     &nbsp;React Native
   </span>
   &nbsp;
-  <span href="https://www.typescriptlang.org/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/typescript.svg" alt="TypeScript" height="30" align="center" />
-    &nbsp;TypeScript
+  <span href="https://nodejs.org">
+    <img src="https://cdn.simpleicons.org/nodedotjs/339933" alt="Node.js" height="30" align="center" />
+    &nbsp;Node.js
   </span>
 </div>
 
