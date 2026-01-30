@@ -5,12 +5,12 @@
 
 ### 💻 Tech Stack
 
-<div style="vertical-align: baseline;">
-  <a href="https://laravel.com">
-    <img src="https://cdn.simpleicons.org/laravel/FF2D20" alt="Laravel" height="30"/>
+<div style="gap: 6px;">
+  <a href="https://laravel.com" style="display: inline-flex; align-items: center; gap: 2px;">
+    <img src="https://cdn.simpleicons.org/laravel/FF2D20" alt="Laravel" height="30" style="display: block;" />
     Laravel
   </a>
-  <a href="https://reactjs.org">
+  <a href="https://reactjs.org" style="display: inline-flex; align-items: center; gap: 2px;">
     <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" height="30"/>
     React
   </a>
