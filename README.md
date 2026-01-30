@@ -27,7 +27,7 @@
   </span>
 </div>
 
-<div hspace="10"></div>
+<br />
 
 <div>
   <span href="https://nestjs.com">
