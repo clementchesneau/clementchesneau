@@ -17,7 +17,7 @@
   </span>
   &nbsp;
   <span href="https://www.typescriptlang.org/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/typescript.svg" alt="TypeScript" height="30" align="center" />
+    <img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" height="30" align="center" />
     &nbsp;TypeScript
   </span>
   &nbsp;
