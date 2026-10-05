@@ -1,55 +1,31 @@
-# Hi, I'm Clément 👋
+# Clément Chesneau
 
+I build my own products and the business around them, and take on a few fixed-price freelance engagements alongside.
 
-📍 Paris ↔️ Strasbourg   |   💻 Freelance Full-Stack Developer
+Paris & Strasbourg, France · [clementchesneau.com](https://www.clementchesneau.com) · [LinkedIn](https://www.linkedin.com/in/clement-chsn/) · [X](https://x.com/clement_chsn) · [YouTube](https://www.youtube.com/@clement_chsn)
 
-<div style="margin-bottom: 60px;">
-  <span href="https://laravel.com">
-    <img src="https://cdn.simpleicons.org/laravel/FF2D20" alt="Laravel" height="30" align="center" />
-    &nbsp;Laravel
-  </span>
-  &nbsp;
-  <span href="https://reactjs.org">
-    <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" height="30" align="center" />
-    &nbsp;React
-  </span>
-  &nbsp;
-  <span href="https://www.typescriptlang.org/">
-    <img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" height="30" align="center" />
-    &nbsp;TypeScript
-  </span>
-  &nbsp;
-  <span href="https://aws.amazon.com">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/amazonaws.svg" alt="AWS" height="30" align="center" />
-    &nbsp;AWS
-  </span>
-</div>
+## What I'm building
 
-<br />
+**[Creadar](https://creadar.io)** — *main product*
+Creator intelligence for Instagram, TikTok and YouTube Shorts: watchlists, post metrics and detection of overperforming content, to spot the formats worth studying.
 
-<div>
-  <span href="https://nestjs.com">
-    <img src="https://cdn.simpleicons.org/nestjs/E0234E" alt="NestJS" height="30" align="center" />
-    &nbsp;NestJS
-  </span>
-  &nbsp;
-  <span href="https://www.python.org">
-    <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" height="30" align="center" />
-    &nbsp;Python
-  </span>
-  &nbsp;
-  <span href="https://reactnative.dev">
-    <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React Native" height="30" align="center" />
-    &nbsp;React Native
-  </span>
-  &nbsp;
-  <span href="https://nodejs.org">
-    <img src="https://cdn.simpleicons.org/nodedotjs/339933" alt="Node.js" height="30" align="center" />
-    &nbsp;Node.js
-  </span>
-</div>
+**clemrig** — *built in parallel*
+An operating framework for AI-agent development: research, scoping, implementation and validation behind quality gates.
 
-## 🚀 Projects I'm working on
-- [GedZilla - Saas and website](https://gedzilla.com)
-- [Numerize - Simulator](https://numerize.com/simulateur-de-devis)
-- [Numerize - Other simulator](https://numerize.com/simulateur-de-devis-petit-budget)
+## Before that
+
+**GedZilla** (2021 → 2026) — took over an unfinished, unstable SaaS and operated it for the long run: ~300 paying users, critical operations down from ~40 s to under 1 s, 14 modules shipped in 33 months, up to 5–6 people led at once.
+
+## Freelance engagements
+
+Advice or hands-on delivery, when the problem sits in my field and the outcome can be clearly defined.
+
+- **Remote** — no recurring on-site presence
+- **Fixed price** — scope, deliverable and price agreed upfront, never billed by the day
+- **External provider** — a defined engagement, not staff augmentation
+
+[Discuss an engagement](https://cal.eu/clementchesneau/mission-freelance) · contact@clementchesneau.com
+
+## Stack
+
+TypeScript · Node.js · React · Hono · PostgreSQL · Python · Laravel · Docker · AWS
